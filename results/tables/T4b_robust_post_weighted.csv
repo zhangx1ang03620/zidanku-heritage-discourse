@@ -1,0 +1,55 @@
+﻿layer,group,category,share_post_weighted,n_posts,share_comment_weighted
+tone,All,Joy & pride,0.28614328470098815,185,0.2676118741692512
+tone,All,Indignation & grief,0.1661638520467654,185,0.18889381184463153
+tone,All,Neutral/informational,0.4079901939925373,185,0.3662679072515138
+tone,All,Skepticism & dissent,0.1397026692597092,185,0.17722640673460346
+tone,Bilibili,Joy & pride,0.32435659491370067,21,0.15221177290142807
+tone,Bilibili,Indignation & grief,0.19150919131060276,21,0.19923371647509577
+tone,Bilibili,Neutral/informational,0.3598823329644343,21,0.4430512016718913
+tone,Bilibili,Skepticism & dissent,0.12425188081126226,21,0.2055033089515848
+tone,Douyin,Joy & pride,0.28661665959543,70,0.2526595744680851
+tone,Douyin,Indignation & grief,0.19835097212861477,70,0.2198581560283688
+tone,Douyin,Neutral/informational,0.34971109819849316,70,0.3537234042553192
+tone,Douyin,Skepticism & dissent,0.16532127007746206,70,0.17375886524822695
+tone,Weibo,Joy & pride,0.6532546128019942,21,0.7553648068669528
+tone,Weibo,Indignation & grief,0.1066083958667079,21,0.13304721030042918
+tone,Weibo,Neutral/informational,0.19562998005410037,21,0.09155937052932761
+tone,Weibo,Skepticism & dissent,0.04450701127719761,21,0.020028612303290415
+tone,Xiaohongshu,Joy & pride,0.1802233929593376,55,0.3825018076644975
+tone,Xiaohongshu,Indignation & grief,0.1547556728347817,55,0.14461315979754158
+tone,Xiaohongshu,Neutral/informational,0.5588899818865979,55,0.3615328994938539
+tone,Xiaohongshu,Skepticism & dissent,0.10613095231928278,55,0.11135213304410702
+tone,Zhihu,Joy & pride,0.13506775128941934,18,0.04782608695652174
+tone,Zhihu,Indignation & grief,0.11576184683400242,18,0.24057971014492754
+tone,Zhihu,Neutral/informational,0.47742785764293116,18,0.35507246376811596
+tone,Zhihu,Skepticism & dissent,0.27174254423364713,18,0.3565217391304348
+function,All,Affective expression,0.27107608033667047,185,0.2679072515138089
+function,All,Restitution claims & state capacity,0.2008543298928676,185,0.21665928223305272
+function,All,Artifact knowledge & return details,0.35563328928103066,185,0.2907989957170285
+function,All,Historical & civilizational debate,0.13267241100842525,185,0.18756461379412198
+function,All,Institutional trust & distrust,0.03976388948100606,185,0.03706985674198789
+function,Bilibili,Affective expression,0.3102326702893252,21,0.1856495994427029
+function,Bilibili,Restitution claims & state capacity,0.19895792229051534,21,0.21630094043887146
+function,Bilibili,Artifact knowledge & return details,0.3319619303482062,21,0.33124346917450365
+function,Bilibili,Historical & civilizational debate,0.13160146869483433,21,0.2326715430163706
+function,Bilibili,Institutional trust & distrust,0.02724600837711888,21,0.034134447927551374
+function,Douyin,Affective expression,0.2606966824038916,70,0.21897163120567376
+function,Douyin,Restitution claims & state capacity,0.2327310012344289,70,0.2730496453900709
+function,Douyin,Artifact knowledge & return details,0.3253883154491293,70,0.34131205673758863
+function,Douyin,Historical & civilizational debate,0.12874453691625296,70,0.11436170212765957
+function,Douyin,Institutional trust & distrust,0.05243946399629725,70,0.05230496453900709
+function,Weibo,Affective expression,0.6022370057335937,21,0.6895565092989986
+function,Weibo,Restitution claims & state capacity,0.24614986902526037,21,0.20457796852646637
+function,Weibo,Artifact knowledge & return details,0.1268022507708845,21,0.08297567954220315
+function,Weibo,Historical & civilizational debate,0.020612450396060893,21,0.012875536480686695
+function,Weibo,Institutional trust & distrust,0.004198424074200472,21,0.010014306151645207
+function,Xiaohongshu,Affective expression,0.19441716696014127,55,0.3304410701373825
+function,Xiaohongshu,Restitution claims & state capacity,0.16396100810447703,55,0.20751988430947216
+function,Xiaohongshu,Artifact knowledge & return details,0.5082521714068453,55,0.3304410701373825
+function,Xiaohongshu,Historical & civilizational debate,0.07924320699479244,55,0.07447577729573392
+function,Xiaohongshu,Institutional trust & distrust,0.05412644653374395,55,0.05712219812002892
+function,Zhihu,Affective expression,0.11363887304014177,18,0.13768115942028986
+function,Zhihu,Restitution claims & state capacity,0.13898677113294228,18,0.1565217391304348
+function,Zhihu,Artifact knowledge & return details,0.3015032891485677,18,0.17101449275362318
+function,Zhihu,Historical & civilizational debate,0.44318943148881,18,0.5231884057971015
+function,Zhihu,Institutional trust & distrust,0.0026816351895382457,18,0.011594202898550725

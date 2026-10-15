@@ -1,0 +1,8 @@
+stage,douyin,bilibili,xhs,weibo,zhihu,total
+Raw comments collected,22203,22283,16268,20079,55536,136369
+After de-duplication,22203,22273,16266,8082,28500,97324
+Under event-relevant posts,4888,5134,4460,2167,2881,19530
+"With text, post-event (core)",4053,4598,3969,1618,1422,15660
+"With text, pre-event (baseline)",778,536,440,255,1459,3468
+LLM-coded on-topic (core),1128,2871,1383,699,690,6771
+LLM-coded on-topic (baseline),107,323,109,89,354,982

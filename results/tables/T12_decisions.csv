@@ -1,0 +1,19 @@
+﻿claim,layer,category,driver_platform,driver_share,pooled_share,p_wald_holm,p_perm_holm,significant_both,R1_post_weighted,R1_rho,R2_same_keyword,R2_rho,R2_sig_both,R3_terra,R3_rho,verdict,p_drop_top5_holm
+platform difference,tone,Joy & pride,Weibo,0.755,0.268,7.562586306344313e-17,0.0019990004997501,True,True,0.6,True,0.7999999999999999,True,True,0.9999999999999999,PRIMARY,
+platform difference,tone,Indignation & grief,Weibo,0.133,0.189,0.0503770156242996,0.6011994002998501,False,True,0.39999999999999997,True,0.7999999999999999,True,True,0.6,exploratory,
+platform difference,tone,Neutral/informational,Weibo,0.092,0.366,8.107444307117748e-06,0.0179910044977511,True,True,0.7,True,0.7999999999999999,True,True,0.8999999999999998,PRIMARY,
+platform difference,tone,Skepticism & dissent,Zhihu,0.357,0.177,1.4456544834889737e-12,0.0019990004997501,True,True,0.8999999999999998,,,True,True,0.8999999999999998,PRIMARY* (R2 not evaluable),
+platform difference,function,Affective expression,Weibo,0.69,0.268,1.7971211679386647e-05,0.0024987506246876,True,True,0.6,True,1.0,True,True,0.9999999999999999,PRIMARY,
+platform difference,function,Restitution claims & state capacity,Zhihu,0.157,0.217,0.4504956507817391,0.8690654672663668,False,True,0.39999999999999997,,,False,True,0.9999999999999999,exploratory,
+platform difference,function,Artifact knowledge & return details,Weibo,0.083,0.291,1.538767149902378e-05,0.1004497751124438,False,True,0.6,True,0.19999999999999998,True,True,0.8999999999999998,exploratory,
+platform difference,function,Historical & civilizational debate,Zhihu,0.523,0.188,1.6080123308197438e-10,0.0619690154922538,False,True,0.9999999999999999,,,True,True,0.9999999999999999,exploratory,
+platform difference,function,Institutional trust & distrust,Weibo,0.01,0.037,0.0030055381005016,0.1109445277361319,False,True,0.8999999999999998,True,1.0,True,True,0.7999999999999999,exploratory,
+phase effect (platform-adjusted),tone,Joy & pride,,,,9.205645823309828e-07,,True,,,,,,,,PRIMARY,1.621947548716043e-06
+phase effect (platform-adjusted),tone,Indignation & grief,,,,0.0003465718337896,,True,,,,,,,,PRIMARY,0.0122099773627271
+phase effect (platform-adjusted),tone,Neutral/informational,,,,4.529030092532079e-07,,True,,,,,,,,PRIMARY,3.26865745417902e-07
+phase effect (platform-adjusted),tone,Skepticism & dissent,,,,0.1342355196842588,,False,,,,,,,,exploratory,0.0366578381574877
+phase effect (platform-adjusted),function,Affective expression,,,,0.0154208525672966,,True,,,,,,,,PRIMARY,0.0078368852882304
+phase effect (platform-adjusted),function,Restitution claims & state capacity,,,,0.0132272989127683,,True,,,,,,,,PRIMARY,0.0072251721959525
+phase effect (platform-adjusted),function,Artifact knowledge & return details,,,,0.4128431454175458,,False,,,,,,,,exploratory,0.113426404300232
+phase effect (platform-adjusted),function,Historical & civilizational debate,,,,0.0182241164268962,,True,,,,,,,,PRIMARY,2.0461571417334613e-08
+phase effect (platform-adjusted),function,Institutional trust & distrust,,,,0.0003465718337896,,True,,,,,,,,PRIMARY,0.0078368852882304

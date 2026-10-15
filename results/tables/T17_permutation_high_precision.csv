@@ -1,0 +1,28 @@
+test,layer,category,p_raw,mc_se_raw,p_holm,holm_scope,draws
+Platform difference,tone,Joy & pride,4.9999750001249995e-06,4.9999750001249995e-06,1.9999900000499998e-05,within layer,200000
+Platform difference,tone,Indignation & grief,0.5981770091149544,0.0010962692983050336,0.5981770091149544,within layer,200000
+Platform difference,tone,Neutral/informational,0.004764976175119125,0.0001539849209690623,0.00952995235023825,within layer,200000
+Platform difference,tone,Skepticism & dissent,4.9999750001249995e-06,4.9999750001249995e-06,1.9999900000499998e-05,within layer,200000
+Platform difference,function,Affective expression,9.999950000249999e-06,7.0710147790999525e-06,4.9999750001249995e-05,within layer,200000
+Platform difference,function,Restitution claims & state capacity,0.8802705986470067,0.000725927929634365,0.8802705986470067,within layer,200000
+Platform difference,function,Artifact knowledge & return details,0.03010484947575262,0.00038208996004733553,0.09031454842725786,within layer,200000
+Platform difference,function,Historical & civilizational debate,0.011619941900290498,0.0002396342927308649,0.04647976760116199,within layer,200000
+Platform difference,function,Institutional trust & distrust,0.052769736151319246,0.0004999254499314842,0.10553947230263849,within layer,200000
+"Platform difference, account type held fixed",tone,Joy & pride,3.9999800000999996e-05,1.4141817425104857e-05,0.000279998600007,across the nine categories,200000
+"Platform difference, account type held fixed",tone,Indignation & grief,0.583837080814596,0.0011022053889373044,1.0,across the nine categories,200000
+"Platform difference, account type held fixed",tone,Neutral/informational,0.009079954600227,0.00021210267589878275,0.054479727601361994,across the nine categories,200000
+"Platform difference, account type held fixed",tone,Skepticism & dissent,4.9999750001249995e-06,4.9999750001249995e-06,4.4999775001124996e-05,across the nine categories,200000
+"Platform difference, account type held fixed",function,Affective expression,4.9999750001249995e-06,4.9999750001249995e-06,4.4999775001124996e-05,across the nine categories,200000
+"Platform difference, account type held fixed",function,Restitution claims & state capacity,0.8742556287218564,0.0007413930279211155,1.0,across the nine categories,200000
+"Platform difference, account type held fixed",function,Artifact knowledge & return details,0.025309873450632746,0.00035120708817267416,0.10537447312763437,across the nine categories,200000
+"Platform difference, account type held fixed",function,Historical & civilizational debate,0.021074894625526874,0.0003211755239899969,0.10537447312763437,across the nine categories,200000
+"Platform difference, account type held fixed",function,Institutional trust & distrust,0.055229723851380745,0.0005107807820126017,0.16568917155414223,across the nine categories,200000
+"Official versus other posts, platform held fixed",tone,Joy & pride,0.013609931950340248,0.0002590820497704092,0.09526952365238174,across the nine categories,200000
+"Official versus other posts, platform held fixed",tone,Indignation & grief,0.7159314203428983,0.0010083987844813642,1.0,across the nine categories,200000
+"Official versus other posts, platform held fixed",tone,Neutral/informational,0.08262458687706561,0.0006156206807785938,0.4131229343853281,across the nine categories,200000
+"Official versus other posts, platform held fixed",tone,Skepticism & dissent,0.03342983285083575,0.00040194700599955295,0.20057899710501448,across the nine categories,200000
+"Official versus other posts, platform held fixed",function,Affective expression,0.008854955725221374,0.00020948204558297762,0.07083964580177099,across the nine categories,200000
+"Official versus other posts, platform held fixed",function,Restitution claims & state capacity,0.5108874455627722,0.0011177689017169822,1.0,across the nine categories,200000
+"Official versus other posts, platform held fixed",function,Artifact knowledge & return details,0.8598857005714972,0.0007761516685679503,1.0,across the nine categories,200000
+"Official versus other posts, platform held fixed",function,Historical & civilizational debate,5.4999725001374995e-05,1.658262645536357e-05,0.000494997525012375,across the nine categories,200000
+"Official versus other posts, platform held fixed",function,Institutional trust & distrust,0.5893470532647337,0.0011000388722061344,1.0,across the nine categories,200000

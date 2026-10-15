@@ -1,0 +1,11 @@
+platform,stratum,population,available,sampled
+Bilibili,model_skepticism,590,559,30
+Bilibili,model_other_tone,2281,2186,15
+Douyin,model_skepticism,196,185,20
+Douyin,model_other_tone,932,892,15
+Weibo,model_skepticism,14,8,8
+Weibo,model_other_tone,685,648,15
+Xiaohongshu,model_skepticism,154,146,20
+Xiaohongshu,model_other_tone,1229,1176,15
+Zhihu,model_skepticism,246,234,40
+Zhihu,model_other_tone,444,421,15
