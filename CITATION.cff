@@ -24,6 +24,7 @@ authors:
   - family-names: "Zhang"
     given-names: "Xiaoge"
 version: "1.0.0"
+doi: "10.5281/zenodo.23395659"
 date-released: "2026-10-15"
 license: MIT
 repository-code: "https://github.com/zhangx1ang03620/zidanku-heritage-discourse"

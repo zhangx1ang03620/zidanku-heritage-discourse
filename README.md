@@ -1,5 +1,7 @@
 # Replication package: public responses to the return of the Zidanku Silk Manuscripts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23395659.svg)](https://doi.org/10.5281/zenodo.23395659)
+
 Code and de-identified data for the article
 
 > Zhe Wang, Xiang Zhang, Tianchen Luo, ChaoFan Yue, Jinjiang Liu, RongQi Zhang, Alina Andreeva, Jiahao Yuan, Chunhong Yuan and Xiaoge Zhang. Public responses to the return of cultural heritage on Chinese social media: a validated large language model analysis of the Zidanku Silk Manuscripts. Manuscript submitted to *npj Heritage Science* (2026).
@@ -74,4 +76,4 @@ Code is released under the MIT License (`LICENSE`). Data, tables and documentati
 
 ## Citation
 
-Please cite the article and this package. See `CITATION.cff`. Archived version: [Zenodo DOI to be added after the first release].
+Please cite the article and this package. See `CITATION.cff`. Archived version: https://doi.org/10.5281/zenodo.23395659 (all versions; v1.0.0 is https://doi.org/10.5281/zenodo.23395660).
